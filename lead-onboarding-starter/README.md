@@ -18,7 +18,6 @@
 **Test**  
 Submit the form once and verify email, card, and sheet updates.
 
-Screenshots
-
+## Screenshots
 
 <img width="351" height="572" alt="image" src="https://github.com/user-attachments/assets/0cc2af08-6d4e-4759-a9e3-ec203d115a7a" />
