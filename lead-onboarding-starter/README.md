@@ -19,7 +19,7 @@
 Submit the form once and verify email, card, and sheet updates.
 
 ## Screenshots
-> Status: WIP- more screenshots will be added soon.
 
-<img width="351" height="572" alt="image" src="https://github.com/user-attachments/assets/0cc2af08-6d4e-4759-a9e3-ec203d115a7a" /><img width="1031" height="568" alt="image" src="https://github.com/user-attachments/assets/66b50470-4f53-4d64-96f5-0f318f49666a" />
+<img width="351" height="572" alt="image" src="https://github.com/user-attachments/assets/0cc2af08-6d4e-4759-a9e3-ec203d115a7a" /><img width="1031" height="568" alt="image" src="https://github.com/user-attachments/assets/66b50470-4f53-4d64-96f5-0f318f49666a" /> <img width="1230" height="569" alt="image" src="https://github.com/user-attachments/assets/ed827e53-8a4f-4b2e-9885-47a97ec63475" />
+
 
