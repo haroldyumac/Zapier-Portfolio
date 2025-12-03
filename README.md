@@ -19,12 +19,12 @@ When I star an email (in Gmail), Zapier will create a Trello task and log it int
 
 ## Screenshots
 -Zap: Overview <img width="904" height="542" alt="Starred Email Zap" src="https://github.com/user-attachments/assets/12e368dd-fb72-4c86-a2ac-9b2639e5ea3d" />
-<p>&nbsp;</p>
+<br><br>
 -Trello: Before <img width="1279" height="707" alt="Trello Before" src="https://github.com/user-attachments/assets/9e807e62-5b46-448d-a2a1-cd7a903f021f" />
-<p>&nbsp;</p>
+<br><br>
 -Trello: After <img width="1039" height="303" alt="Trello After" src="https://github.com/user-attachments/assets/cacd07eb-cbd8-4c6c-9b16-b558c1b04117" />
-<p>&nbsp;</p>
+<br><br>
 -Google Sheet: Before <img width="1280" height="706" alt="Google Sheets Before" src="https://github.com/user-attachments/assets/1ddac95f-60f6-4183-8fbd-a16e672d039b" />
-<p>&nbsp;</p>
+<br><br>
 -Google Sheet: After (double test) <img width="1278" height="335" alt="Google Sheets After (double test)" src="https://github.com/user-attachments/assets/988a8bbd-530e-42bb-822b-04f15d4099e3" />
 
